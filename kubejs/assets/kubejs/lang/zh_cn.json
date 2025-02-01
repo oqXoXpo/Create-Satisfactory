@@ -1,0 +1,11 @@
+{
+    "kubejsadditions.jei.blockcrafting.title":"方块合成",
+    "kubejsadditions.jei.blockcrafting.catalyst":"催化剂",
+    "kubejsadditions.jei.blockcrafting.component":"材料成分",
+    "kubejsadditions.jei.blockcrafting.toggle_exploded_view":"爆炸视图",
+    "kubejsadditions.jei.blockcrafting.toggle_condensed_view":"压缩视图",
+    "kubejsadditions.jei.blockcrafting.all_layers_mode":"查看所有层",
+    "kubejsadditions.jei.blockcrafting.single_layer_mode":"单层模式",
+    "kubejsadditions.jei.blockcrafting.layer_up":"上一层",
+    "kubejsadditions.jei.blockcrafting.layer_down":"下一层"
+}

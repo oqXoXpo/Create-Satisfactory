@@ -1,14 +1,15 @@
-/.probe/
-/.vscode/
+/.*
 /backups/
-/fancymenu_data
+/crash-reports/
+/fancymenu_data/
+/journeymap/
 /local/
 /logs/
 /modernfix/
 /PCL/
-/resourcepacks/
 /saves/
 /schematics/
+/screenshots/
 /shaderpacks/
 /*-natives/
 /emi.json
@@ -16,8 +17,10 @@
 /rhino.local.properties
 /usercache.json
 /usernamecache.json
+jsconfig.json
 
 /config/oculus.properties
-/config/inventoryprofilesnext
 /config/inventoryprofilesnext/*
 !/config/inventoryprofilesnext/inventoryprofiles.json
+
+/resourcepacks/Minecraft-*.zip
